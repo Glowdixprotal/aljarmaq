@@ -1,10 +1,10 @@
 @charset "UTF-8";
 @font-face {
     font-family: "Neue";
-    src: url("../fonts/bold/HelveticaNeueW23forSKY-Bd_T02.eot");
-    src: url("../fonts/bold/HelveticaNeueW23forSKY-Bd_T02.woff") format("woff"),
-    url("../fonts/bold/HelveticaNeueW23forSKY-Bd_T02.ttf") format("opentype"),
-    url("../fonts/bold/HelveticaNeueW23forSKY-Bd_T02.svg") format("svg");
+    src: url("https://cdn.statically.io/gh/glowcodixservices/aljarmaq/eb5851c14488a67db3ca5fec59844417ddcdc151/HelveticaNeueW23forSKY-Bd_T02.eot");
+    src: url("https://cdn.statically.io/gh/glowcodixservices/aljarmaq/eb5851c14488a67db3ca5fec59844417ddcdc151/HelveticaNeueW23forSKY-Bd_T02.woff") format("woff"),
+    url("https://cdn.statically.io/gh/glowcodixservices/aljarmaq/eb5851c14488a67db3ca5fec59844417ddcdc151/HelveticaNeueW23forSKY-Bd_T02.ttf") format("opentype"),
+    url("https://cdn.statically.io/gh/glowcodixservices/aljarmaq/main/HelveticaNeueW23forSKY-Bd_T02.svg") format("svg");
     font-display: swap;
 }
 :root {
